@@ -6,7 +6,7 @@ export default function EventInfoSection({ isSectionLoaded, activeTab, setActive
                 isSectionLoaded('info') ? 'section-visible' : 'section-hidden'
             }`}>
                 <div className="text-center space-y-4">
-                    <h1 className="font-bold text-xl md:text-2xl">OCTOBER 19TH, 2025</h1>
+                    <h1 className="font-bold text-xl md:text-2xl">19TH OCTOBER, 2025</h1>
                     <p className="text-neutral-content/70">First Love Centre, East Legon, Accra, Ghana</p>
                     <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
                     </div>
@@ -77,15 +77,15 @@ export default function EventInfoSection({ isSectionLoaded, activeTab, setActive
                                     <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm">
                                         <div>
                                             <p className="font-medium">Registration Opens</p>
-                                            <p className="text-neutral-content/70">August 17th, 2025</p>
+                                            <p className="text-neutral-content/70">17th August, 2025</p>
                                         </div>
                                         <div>
                                             <p className="font-medium">Registration Closes</p>
-                                            <p className="text-neutral-content/70">September 5th, 2025</p>
+                                            <p className="text-neutral-content/70">5th September, 2025</p>
                                         </div>
                                         <div>
                                             <p className="font-medium">Live Auditions</p>
-                                            <p className="text-neutral-content/70">September 6th, 2025</p>
+                                            <p className="text-neutral-content/70">7th September, 2025</p>
                                         </div>
                                     </div>
                                 </div>
