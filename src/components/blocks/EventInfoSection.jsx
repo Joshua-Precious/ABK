@@ -23,7 +23,7 @@ export default function EventInfoSection({ isSectionLoaded, activeTab, setActive
                             <button
                                 key={tab}
                                 onClick={() => setActiveTab(tab)}
-                                className={`flex-1 py-2 md:py-3 px-2 md:px-4 rounded-md transition-all duration-200 text-sm md:text-base ${
+                                className={`flex-1 py-2 md:py-3 px-2 md:px-4 hover:cursor-pointer rounded-md transition-all duration-200 text-sm md:text-base ${
                                     activeTab === tab
                                         ? 'bg-primary-content text-primary font-medium'
                                         : 'text-neutral-content hover:bg-primary-content/10'

@@ -5,7 +5,7 @@ export default function LogoSection({ isSectionLoaded }) {
         <div className={`flex items-center justify-center transition-all duration-800 ${
             isSectionLoaded('logo') ? 'section-visible' : 'section-hidden'
         }`}>
-            <img src={image4} alt="ABK" className="h-40 md:h-60 max-w-full"/>
+            <img src={image4} alt="ABK" className="min-h-60 md:h-72 max-w-full"/>
         </div>
     );
 }

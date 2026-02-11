@@ -33,7 +33,7 @@ export default function Header({
             }`}>
                 <div className="flex items-center justify-between container mx-auto py-3 px-4">
                     <div>
-                        <img src={image5} alt="ABK" className="h-8 md:h-12"/>
+                        <img src={image5} alt="ABK" className="h-12 md:h-16"/>
                     </div>
 
                     <div className="opacity-50 bg-neutral">
