@@ -15,7 +15,7 @@ export default function HeroSection({ isSectionLoaded }) {
                     <h1 className="text-3xl md:text-6xl font-medium pb-2">Accra Boogie King</h1>
                 </div>
                 <div className="font-light opacity-60">
-                    <h4 className="text-sm md:text-base">Ghana's ultimate team dance showdance, Accra Boogie King, returns for its 2025 edition — bringing together the </h4>
+                    <h4 className="text-sm md:text-base">Ghana's ultimate team dance showdance, Accra Boogie King, returns for its 2026 edition — bringing together the </h4>
                     <p className="text-sm md:text-base">best crews to connect, compete, and celebrate Ghana's vibrant dance culture. Stay tuned for audition updates</p>
                     <p className="text-sm md:text-base">below!</p>
                 </div>

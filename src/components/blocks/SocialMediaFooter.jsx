@@ -48,7 +48,7 @@ export default function SocialMediaFooter({ isSectionLoaded }) {
                             </a>
                         </div>
                         <p className="text-neutral-content/60 text-sm">
-                            Follow us on social media for updates and behind-the-scenes content.<br /> © 2025 ABK.
+                            Follow us on social media for updates and behind-the-scenes content.<br /> © 2026 ABK.
                         </p>
                     </div>
                 </div>

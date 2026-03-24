@@ -6,7 +6,7 @@ export default function EventInfoSection({ isSectionLoaded, activeTab, setActive
                 isSectionLoaded('info') ? 'section-visible' : 'section-hidden'
             }`}>
                 <div className="text-center space-y-4">
-                    <h1 className="font-bold text-xl md:text-2xl">19TH OCTOBER, 2025</h1>
+                    <h1 className="font-bold text-xl md:text-2xl">TBD</h1>
                     <p className="text-neutral-content/70">First Love Centre, East Legon, Accra, Ghana</p>
                     <div className="flex flex-col md:flex-row gap-4 justify-center items-center">
                     </div>
@@ -43,11 +43,11 @@ export default function EventInfoSection({ isSectionLoaded, activeTab, setActive
                                 <div className="">
                                     <div>
                                         <h3 className="text-lg font-medium mb-3">What is ABK?</h3>
-                                        <p>Are you ready to own the stage? Accra Boogie King, Ghana's biggest team dance competion, returns for its explosive 2025 season!</p>
+                                        <p>Are you ready to own the stage? Accra Boogie King, Ghana's biggest team dance competion, returns for its explosive 2026 season!</p>
                                         <p>This all-styles dance showdoen brings toggether Ghana's top crews to battle it out in a high-energy contest celebrating rhythm, creativity, and unity.
                                             From afro to hip-hop, Amapiano to gospel street — teams will need to impress the crowd and judges across three dynamic rounds.
                                         </p>
-                                        <p>Accra Boogie King 2025 will spotlight dance communities from across the nation, building momentum through city-wide qualifiers, workkshops, and 
+                                        <p>Accra Boogie King 2026 will spotlight dance communities from across the nation, building momentum through city-wide qualifiers, workkshops, and 
                                         activations — all leading to the grand finale this October in Accra. Who will be crowned Ghana's Boogie Kings this year? The stage is yours!
                                         </p>
                                     </div>
@@ -61,31 +61,31 @@ export default function EventInfoSection({ isSectionLoaded, activeTab, setActive
                                 
                                     <div>
                                         <h3 className="text-lg font-medium mb-3">Audition Process</h3>
-                                        <p>Think You've Got What It Takes? Step into the Spotlight at the ABK 2025 Open Audtions! Join us at one of the ABK Open AUdition Sesions for your chance to earn a spot on the
+                                        <p>Think You've Got What It Takes? Step into the Spotlight at the ABK 2026 Open Audtions! Join us at one of the ABK Open AUdition Sesions for your chance to earn a spot on the
                                         biggest dance stage in Ghana</p>
                                         <p>Our audition panels feature top dance professionals who will be watching closely for charisma, rhythm, musicality, creativity, and 
                                         overall movement. All dance styles are welcome — from Afrobeats to Hip-Hop, Freestyle, and more. 
                                         Note: This is not a breaking competition. Overemphasis on breaking may lead to disqualification.</p>
                                         <p>
-                                            Applicants must be 16 years or older and based in Ghana to be eligible. The ABK 2025 Audtions are your first step toward dancing live at the 7th Edition of Accra Boogie King this October — where 
+                                            Applicants must be 16 years or older and based in Ghana to be eligible. The ABK 2026 Audtions are your first step toward dancing live at the 7th Edition of Accra Boogie King this October — where 
                                             thousands of fans and dance lovers gather to witness Ghana's finest. Spots are limited, so register early to secure your place. Let your dance speak — and we'll see you on the floor!
                                         </p>
 
                                 </div>
-                                <div className="bg-neutral p-4 rounded-lg">
-                                    <h3 className="text-lg font-medium mb-3">Important Dates  *</h3>
+                                <div className="bg-neutral flex flex-col flex-1 text-center p-4 rounded-lg">
+                                    <h3 className="text-lg text-primary-content font-medium mb-3">Important Dates  *</h3>
                                     <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm">
                                         <div>
                                             <p className="font-medium">Registration Opens</p>
-                                            <p className="text-neutral-content/70">17th August, 2025</p>
+                                            <p className="text-neutral-content/70">TBD</p>
                                         </div>
                                         <div>
                                             <p className="font-medium">Registration Closes</p>
-                                            <p className="text-neutral-content/70">5th September, 2025</p>
+                                            <p className="text-neutral-content/70">TBD</p>
                                         </div>
                                         <div>
                                             <p className="font-medium">Live Auditions</p>
-                                            <p className="text-neutral-content/70">7th September, 2025</p>
+                                            <p className="text-neutral-content/70">TBD</p>
                                         </div>
                                     </div>
                                 </div>
